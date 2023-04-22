@@ -1,0 +1,2 @@
+{'name': 'tulsi', 'phoneNumber': '9809109072', 'address': 'riygru', 'email': 'udyiyrds9', 'username': 'tulsi', 'password': 'tulsi123', 'accountNumber': 6000000001, 'accountBalance': 9146.0}
+{'name': 'aromal', 'phoneNumber': 'huhuu', 'address': 'dfgyudst', 'email': 'riueyr', 'username': 'aromal', 'password': 'aromal123', 'accountNumber': 6000000002, 'accountBalance': 1110.0}
